@@ -8,3 +8,5 @@ Enthalten:
 
 Start: index.html in einem aktuellen Browser öffnen. Es ist keine Installation erforderlich.
 Der Spielstand wird lokal im Browser gespeichert.
+
+Dieses Spiel ist KI generiert. Weil wer macht einen Schneckenchecker alleine.
